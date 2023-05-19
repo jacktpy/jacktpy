@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jacktpy&count_private=true&show_icons=true&theme=cobalt" />
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jacktpy&count_private=true&show_icons=true&theme=cobalt" /> -->
 
-### Technology stack:
+<!-- ### Technology stack: -->
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -12,6 +12,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> -->
 
+[![DerkLi's Github Status](https://github-readme-stats.vercel.app/api?username=jacktpy&show_icons=true&bg_color=0,d0768c,bf46a5,7029b2,341d8c&title_color=fff&text_color=fff&icon_color=fff&border_color=78787878)](https://github.com/jacktpy)
 
 <p align="center"> 
   Visitor count<br>
